@@ -1,0 +1,6 @@
+{
+  "name": "NOVA PLAYER Official Website",
+  "description": "Official website for NOVA PLAYER, the high-performance, privacy-first Android media player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
